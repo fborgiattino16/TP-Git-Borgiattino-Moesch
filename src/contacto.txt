@@ -1,2 +1,3 @@
-Versión del integrante A - Línea de contacto
 Email: integranteA@ejemplo.com
+Email: integranteB@ejemplo.com
+
